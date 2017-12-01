@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--AnimImageView-->
+    <declare-styleable name="FrameImageView">
+        <!-- 要播放的图片资源 -->
+        <attr name="anim" format="reference" />
+        <!-- 是否只播放一次 -->
+        <attr name="is_one_shot" format="boolean" />
+
+    </declare-styleable>
+</resources>
